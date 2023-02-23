@@ -5,4 +5,5 @@ public class Task_12 {
         Parent parent = new Parent();
         Child child = new Child();
     }
+
 }
